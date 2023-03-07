@@ -1,7 +1,7 @@
-Summary:	Metapackage for alternatives to ms fonts
 Name:		task-ms-alt-fonts
+Summary:	Metapackage for alternatives to ms fonts
 Version:	1.0
-Release:	1
+Release:	2
 Group:	System/Fonts/True type
 License:	GPLv2+
 BuildArch:	noarch
