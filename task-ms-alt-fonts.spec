@@ -3,6 +3,7 @@ Summary:	Metapackage for alternatives to ms fonts
 Version:	1.0
 Release:	2
 Group:	System/Fonts/True type
+URL: http://openmandriva.org/
 License:	GPLv2+
 BuildArch:	noarch
 
