@@ -9,7 +9,7 @@ BuildArch:	noarch
 %description
 This package is a meta-package, meaning that its purpose is to contain
 alternatives to ms fonts
-#
+
 Requires: fonts-ttf-arimo
 Requires: fonts-ttf-caladea
 Requires: fonts-ttf-carlito
