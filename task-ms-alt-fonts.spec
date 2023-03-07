@@ -12,11 +12,12 @@ alternatives to ms fonts
 #
 Requires: fonts-ttf-arimo
 Requires: fonts-ttf-caladea
-Requires: fonts-ttf-caladea
+Requires: fonts-ttf-carlito
 Requires: fonts-ttf-comic-relief
 Requires: fonts-ttf-cousine
 Requires: fonts-ttf-gelasio
 Requires: fonts-ttf-selawik
+Requires: fonts-ttf-tinos
 Requires: google-crosextra-caladea-fonts
 Requires: google-crosextra-carlito-fonts
 
